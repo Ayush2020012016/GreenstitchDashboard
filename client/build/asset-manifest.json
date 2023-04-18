@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fc0cbe56.css",
+    "main.js": "/static/js/main.9a1c14d4.js",
+    "static/media/Globe.svg": "/static/media/Globe.4187447b45e24a81e7cfba9b685ca7af.svg",
+    "static/media/LayoutGrid.svg": "/static/media/LayoutGrid.f301bf544c22dc10950570477183a0e0.svg",
+    "static/media/Logout.svg": "/static/media/Logout.cb476f8a06146f755cf05cae52fc92f0.svg",
+    "static/media/Setting.svg": "/static/media/Setting.743912483b11adec46f126ff5aa896d1.svg",
+    "static/media/Support.svg": "/static/media/Support.ad349d3331b25941a66192dd8aaaea6d.svg",
+    "static/media/Stats.svg": "/static/media/Stats.f28b4103834a2e69025ed16f7c48c0e9.svg",
+    "static/media/Indicator.svg": "/static/media/Indicator.10ae9ad5de9e977057416a77c71c6a3a.svg",
+    "static/media/Calendar.svg": "/static/media/Calendar.5e7876139363c91205d31fece7700acc.svg",
+    "static/media/barchart.svg": "/static/media/barchart.ce1a0a8de8e4c03a242cd2e5cecffa71.svg",
+    "index.html": "/index.html",
+    "static/media/folder.svg": "/static/media/folder.ce0e6dd4c36e2301bebe24ceb9a4bd4d.svg",
+    "main.fc0cbe56.css.map": "/static/css/main.fc0cbe56.css.map",
+    "main.9a1c14d4.js.map": "/static/js/main.9a1c14d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc0cbe56.css",
+    "static/js/main.9a1c14d4.js"
+  ]
+}

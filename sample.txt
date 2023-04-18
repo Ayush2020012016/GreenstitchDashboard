@@ -1,0 +1,17 @@
+Getting started.
+
+1. icons download --completed
+2. small card section --completed
+3. google icon integrate --completed
+
+
+
+1. sidebar --completed  
+2. searchbar -- completed
+3. mainsection 
+    a. d3 implement not done but implemented google chart --completed
+4. integrate with mongodb  --completed
+5. imporve the ui by adding the onhover
+6. deploy.
+
+ 
