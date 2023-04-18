@@ -2,20 +2,20 @@
 
 ## client 
 
-### In the client I have used React.js Tailwindcss and for the charts I have implemented the Google charts.
+### In the client I have used React.js Tailwindcss and for the chart I have implemented the Google charts.
 
 --- 
 
-## server
+## backend
 
 
-### the other section is backend in which I have used express, and for the database I have used Mongodb.
+### In this section  I have used express, and for the database I have used Mongodb.
 
 --- 
 
 ## Feature
 
-### As Stated in the requirement the data loaded for the chart is done using database that is mongodb in my case.
+### As Stated in the requirement the data, loaded for the chart is done using database that is mongodb.
 
 ---
 
