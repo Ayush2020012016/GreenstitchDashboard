@@ -19,6 +19,24 @@
 
 ---
 
+## Here is how I deployed the application
+
+first I deployed the  backend on render.com
+
+- In index.js file add  
+ `const port = process.env.port || 4000`
+- add start script in package.json file.
+- create a new project in render.com 
+- add environment variables in advanced setting.
+-deploy.
+
+ Than for the client
+
+- Created a helper.js file which contain the link to deployed backend.
+- build the react project  
+    `npm run build`
+- directly upload the build folder to the netilfy.
+
 ## Usage
 
 - `git clone git@github.com:Ayush2020012016/GreenstitchDashboard.git`
