@@ -14,8 +14,9 @@ function Charts() {
         const fetchData = async ()=>{
           const response = await fetch(`${BASE_URI}/chartdata`)
           const data = await response.json();
-          setchartLoadData(data);
-          console.log(data);
+          if(data){
+            setchartLoadData(data);
+          }
         }
         fetchData()
     } catch (error) {
@@ -34,12 +35,12 @@ function Charts() {
 
   ]);
   setChartData((prevState) => [...prevState, ...rows]);
-setIsLoading(false)
+  console.log(chartLoadData+ "this is chart load data")
+ if(chartLoadData.length!=0)
+ {   setIsLoading(false)}
+  
 
   },[chartLoadData])
-  useEffect(()=>{
-    console.log(chartData)
-  },[chartData])
 
   return (
     <>

@@ -29,10 +29,7 @@ const Mainsection = () => {
     <div className="ml-[330px]">
       {
         isLoading ? <>loading...</>:<>
-
-        </>
-      }
-      <div className="flex">
+<div className="flex">
       {cardloadedData.map((item,index)=>{
         return (
             <Smallcard emission={item["emission"]}
@@ -43,6 +40,9 @@ const Mainsection = () => {
         )
       })}
       </div>
+        </>
+      }
+      
       <div className="flex">
         <Charts />
         <PieChart />
